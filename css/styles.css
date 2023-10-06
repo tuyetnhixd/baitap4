@@ -1,0 +1,49 @@
+.color-red {
+    color: red;
+}
+
+#color-green {
+    color: 008000;
+}
+
+
+.khung1 {
+    width: 200px;
+    height: 100px;
+    background: green;
+}
+
+
+.khung2 {
+    width: 100%;
+    height: 200px;
+    background-image: url(../images/f72db86edb28d4baa7ce91e37c0821fc.jpg);
+    background-attachment: fixed;
+}
+
+
+.box1 {
+    background-color: green;
+    border: solid 5px black;
+    text-align: center;
+    color: white;
+    padding: 30px 50px;
+}
+
+
+.box2 {
+    background-color: red;
+    border: dashed 10px #CCCCCC;
+    text-align: right;
+    color: white;
+    padding: 30px;
+    margin-top: 30px;
+    background-clip: padding-box;
+}
+
+.text1 {
+    font: arial;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+}
